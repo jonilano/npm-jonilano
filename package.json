@@ -1,0 +1,22 @@
+{
+  "name": "jonilano",
+  "version": "1.0.0",
+  "description": "me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonilano/npm-jonilano.git"
+  },
+  "keywords": [
+    "jonilano"
+  ],
+  "author": "Jonathan Ilano <jonathan.ilano@gmail.com> (http://jonathanilano.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonilano/npm-jonilano/issues"
+  },
+  "homepage": "https://github.com/jonilano/npm-jonilano#readme"
+}
